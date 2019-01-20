@@ -280,13 +280,13 @@ MIT. Please see the [license file](license.md) for more information.
 
 Here you can find more info about how to [How to Choose an open source licence](https://choosealicense.com/)
 
-[ico-version]: https://img.shields.io/packagist/v/krisozolins/laravelpackageexample.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/krisozolins/laravelpackageexample.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/krisozolins/laravelpackageexample/master.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/krisozolins/laravel-package-example.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/krisozolins/laravel-package-example.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/krisozolins/laravel-packageexample/master.svg?style=flat-square
 [ico-styleci]: https://styleci.io/repos/166639314/shield
 
-[link-packagist]: https://packagist.org/packages/krisozolins/laravelpackageexample
-[link-downloads]: https://packagist.org/packages/krisozolins/laravelpackageexample
+[link-packagist]: https://packagist.org/packages/krisozolins/laravel-package-example
+[link-downloads]: https://packagist.org/packages/krisozolins/laravel-package-example
 [link-travis]: https://travis-ci.org/krisozolins/laravelpackageexample
 [link-styleci]: https://styleci.io/repos/166639314
 [link-author]: https://github.com/krisozolins
