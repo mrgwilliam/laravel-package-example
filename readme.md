@@ -283,11 +283,11 @@ Here you can find more info about how to [How to Choose an open source licence](
 [ico-version]: https://img.shields.io/packagist/v/krisozolins/laravelpackageexample.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/krisozolins/laravelpackageexample.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/krisozolins/laravelpackageexample/master.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos/166638853/shield
+[ico-styleci]: https://styleci.io/repos/166639314/shield
 
 [link-packagist]: https://packagist.org/packages/krisozolins/laravelpackageexample
 [link-downloads]: https://packagist.org/packages/krisozolins/laravelpackageexample
 [link-travis]: https://travis-ci.org/krisozolins/laravelpackageexample
-[link-styleci]: https://styleci.io/repos/166638853
+[link-styleci]: https://styleci.io/repos/166639314
 [link-author]: https://github.com/krisozolins
 [link-contributors]: ../../contributors
